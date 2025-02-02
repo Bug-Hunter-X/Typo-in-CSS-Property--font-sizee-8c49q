@@ -1,0 +1,9 @@
+The corrected CSS rule with the proper `font-size` property:
+
+```css
+div {
+  font-size: 16px;
+}
+```
+
+This version will correctly set the font size of all `div` elements to 16 pixels.
