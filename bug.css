@@ -1,0 +1,7 @@
+The following CSS rule uses an invalid property name `font-sizee`.  This will cause the rule to be ignored by the browser and will not apply any styling changes to the elements it targets.
+
+```css
+div {
+  font-sizee: 16px;
+}
+```
